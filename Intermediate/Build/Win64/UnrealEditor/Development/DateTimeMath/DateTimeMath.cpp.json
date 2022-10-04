@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\benzob\\documents\\unreal projects\\vw_astorasdarkness\\plugins\\datetimemath\\source\\datetimemath\\private\\datetimemath.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\benzob\\documents\\unreal projects\\vw_astorasdarkness\\intermediate\\build\\win64\\vw_astorasdarknesseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\benzob\\documents\\unreal projects\\vw_astorasdarkness\\plugins\\datetimemath\\intermediate\\build\\win64\\unrealeditor\\development\\datetimemath\\definitions.datetimemath.h",
+            "c:\\users\\benzob\\documents\\unreal projects\\vw_astorasdarkness\\plugins\\datetimemath\\source\\datetimemath\\public\\datetimemath.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

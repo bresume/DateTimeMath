@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DateTimeMath.cpp.obj": [
+			"DateTimeFunctionLibrary.cpp.obj",
+			"DateTimeMath.cpp.obj"
+		],
+		"Module.DateTimeMath.gen.cpp.obj": [
+			"DateTimeFunctionLibrary.gen.cpp.obj",
+			"DateTimeMath.init.gen.cpp.obj"
+		]
+	}
+}

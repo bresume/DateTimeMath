@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\benzob\\documents\\unreal projects\\vw_astorasdarkness\\plugins\\datetimemath\\intermediate\\build\\win64\\unrealeditor\\development\\datetimemath\\module.datetimemath.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\benzob\\documents\\unreal projects\\vw_astorasdarkness\\intermediate\\build\\win64\\vw_astorasdarknesseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\benzob\\documents\\unreal projects\\vw_astorasdarkness\\plugins\\datetimemath\\intermediate\\build\\win64\\unrealeditor\\development\\datetimemath\\definitions.datetimemath.h",
+            "c:\\users\\benzob\\documents\\unreal projects\\vw_astorasdarkness\\plugins\\datetimemath\\intermediate\\build\\win64\\unrealeditor\\inc\\datetimemath\\datetimefunctionlibrary.gen.cpp",
+            "c:\\users\\benzob\\documents\\unreal projects\\vw_astorasdarkness\\plugins\\datetimemath\\source\\datetimemath\\classes\\datetimefunctionlibrary.h",
+            "c:\\users\\benzob\\documents\\unreal projects\\vw_astorasdarkness\\plugins\\datetimemath\\intermediate\\build\\win64\\unrealeditor\\inc\\datetimemath\\datetimefunctionlibrary.generated.h",
+            "c:\\users\\benzob\\documents\\unreal projects\\vw_astorasdarkness\\plugins\\datetimemath\\intermediate\\build\\win64\\unrealeditor\\inc\\datetimemath\\datetimemath.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

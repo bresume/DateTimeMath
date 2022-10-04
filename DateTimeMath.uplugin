@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DateTimeMath",
+	"Description": "Temporary fix for UE5's lack of date time math with timespans",
+	"Category": "Other",
+	"CreatedBy": "Behron Georgantas",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DateTimeMath",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

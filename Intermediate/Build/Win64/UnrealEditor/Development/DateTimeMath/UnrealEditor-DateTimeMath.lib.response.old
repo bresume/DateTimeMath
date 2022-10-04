@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DateTimeMath.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Benzob\Documents\Unreal Projects\VW_AstorasDarkness\Intermediate\Build\Win64\VW_AstorasDarknessEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Benzob\Documents\Unreal Projects\VW_AstorasDarkness\Plugins\DateTimeMath\Intermediate\Build\Win64\UnrealEditor\Development\DateTimeMath\DateTimeMath.cpp.obj"
+"C:\Users\Benzob\Documents\Unreal Projects\VW_AstorasDarkness\Plugins\DateTimeMath\Intermediate\Build\Win64\UnrealEditor\Development\DateTimeMath\Default.rc2.res"
+/OUT:"C:\Users\Benzob\Documents\Unreal Projects\VW_AstorasDarkness\Plugins\DateTimeMath\Intermediate\Build\Win64\UnrealEditor\Development\DateTimeMath\UnrealEditor-DateTimeMath.lib"
